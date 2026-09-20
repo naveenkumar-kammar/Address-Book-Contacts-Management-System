@@ -323,12 +323,12 @@ Returning to main menu...
 ------Search for contacts-----
 
 +------------------------------+
-|  🔍 Select search criteria  |
+|  🔍 Select search criteria   |
 +------------------------------+
 |  1. 🔍 🔤 Search by name    |
 |  2. 🔍 📱 Search by phone   |
 |  3. 🔍 📧 Search by email   |
-|  4. 🚪 Exit                 |
+|  4. 🚪 Exit                  |
 +------------------------------+
 Enter your choice: 1
 
