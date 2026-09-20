@@ -1,0 +1,10 @@
+Contacts stored: 9
+1) Naveenkumar Kammar, 8495965878, naveenkumarkammar978@gmail.com
+2) Varun B R, 7975748560, varunbr1968@gmail.com
+3) Varun M M, 8792077968, varunmm2020@gmail.com
+4) Naveenkumar Kammar, 9380066306, navinkumarkammar1530@gmail.com
+5) Sagar S, 9620709925, sagar@gmail.com
+6) Yashwant M R, 7019594855, yashwantmr@gmail.com
+7) Siddesh D S, 8867283759, siddesh@gmail.com
+8) Prajwal B T, 7760660755, prajwalbt@gmail.com
+9) Yathish K P, 7090659017, yathishkp@gmail.com
