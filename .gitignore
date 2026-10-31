@@ -4,3 +4,6 @@ a.out
 
 # Object files
 *.o
+
+# text files
+*.txt
